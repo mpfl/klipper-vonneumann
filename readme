@@ -1,0 +1,5 @@
+# Von Neumann klipper config
+
+Von Neumann is an Ender 3 Pro with an SKR 1.4 Turbo board and TMC2209 steppers and BLTouch. All steppers, heaters and hotend are stock.
+
+Feel free to try and use this config for your own 3D printer, but your mileage may vary.
